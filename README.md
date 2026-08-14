@@ -1,5 +1,10 @@
 # pray_iafcj
 
+
+##que se hizo
+1. modifique arroba y puntos
+2. color de recuadros de libros 
+
 1. Arreglar flujo de navegacion
 2. que el boton de cierre de sesion sea responsivo
 
