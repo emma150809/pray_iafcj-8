@@ -1,7 +1,7 @@
 # pray_iafcj
 
 
-##que se hizo
+## que se hizo
 1. modifique arroba y puntos
 2. color de recuadros de libros 
 
